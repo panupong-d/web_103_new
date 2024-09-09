@@ -17,7 +17,7 @@ function ListWrapper() {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,        // Enable autoplay
-    autoplaySpeed: 5000,   // Set the delay for autoplay in milliseconds (5000ms = 5s)
+    autoplaySpeed: 8000,   // Set the delay for autoplay in milliseconds (5000ms = 5s)
   };
 
   useEffect(() => {
