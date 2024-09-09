@@ -47,7 +47,7 @@ function MyNavbar() {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
           <Nav.Link onClick={handleRecommendationsClick}>อาหารแนะนำ</Nav.Link>
-          <Nav.Link onClick={handleImportantPlacesClick}>สถานที่สำคัญ</Nav.Link>
+          <Nav.Link onClick={handleImportantPlacesClick}>สถานที่ใกล้เคียง</Nav.Link>
           <Nav.Link onClick={handleCheckCheckinSpots}>จุดเช็คอิน</Nav.Link>
           <Nav.Link onClick={handleActivitiesClick}>กิจกรรม</Nav.Link> {/* New Link */}
           
