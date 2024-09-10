@@ -53,7 +53,7 @@ function MyNavbar() {
           
         </Nav>
         <Nav className="ml-auto">
-        <Nav.Link href="https://drive.google.com/drive/folders/1MDqdz653xq7Jm7wAC2u27Qmxewdph_B9?usp=drive_link" target="_blank">
+        <Nav.Link href="https://drive.google.com/drive/folders/1jzTcrm-kLjRkaZRQw3y8hVAgfh-GcfUs?usp=sharing" target="_blank">
             โหลดมาสคอต
           </Nav.Link>
           <Nav.Link onClick={handleContactClick}>ช่องทางติดต่อ</Nav.Link>
